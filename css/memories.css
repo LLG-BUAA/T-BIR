@@ -991,7 +991,7 @@
 /* 盒子 */
 .ly-box11 {
     width: 30%;
-    height: 600px;
+    height:800px;
     border: 2px #CCC;
     background-color: #fff;
     background-color: rgba(255, 255, 255, 0.6);
@@ -1044,7 +1044,7 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 80%;
+    height: 70%;
     border-radius: 8px;
     opacity: 0;
     overflow: hidden;
@@ -1573,7 +1573,7 @@
 /* 盒子 */
 .ly-box31 {
     width: 30%;
-    height: 600px;
+    height: 800px;
     border: 2px #CCC;
     background-color: #fff;
     background-color: rgba(255, 255, 255, 0.6);
@@ -1684,7 +1684,7 @@
 /* 盒子 */
 .ly-box32 {
     width: 40%;
-    height: 400px;
+    height: 550px;
     border: 2px #CCC;
     background-color: #fff;
     background-color: rgba(255, 255, 255, 0.6);
@@ -1775,7 +1775,7 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 70%;
+    height: 80%;
     border-radius: 8px;
     opacity: 0;
     overflow: hidden;
